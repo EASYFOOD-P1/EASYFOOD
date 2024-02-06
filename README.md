@@ -11,3 +11,10 @@ EASYFOOD is a web-based project designed to provide automatic and personalized s
 - **Automatic Updates:** The system regularly updates its database to ensure accurate and relevant information about the university's restaurants.
 
 - **User-Friendly Interface:** A clean and intuitive interface for easy navigation and a seamless user experience.
+
+### Clone Repository
+
+To clone the repository using Git, open your terminal and run:
+
+```bash
+git clone https://github.com/EASYFOOD-P1/EASYFOOD.git
