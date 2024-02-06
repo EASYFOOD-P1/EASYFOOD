@@ -19,5 +19,4 @@ To clone the repository using Git, open your terminal and run:
 ```bash
 git clone https://github.com/EASYFOOD-P1/EASYFOOD.git
 ```
-this is not a test.
-is it?
+
