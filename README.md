@@ -25,7 +25,7 @@ To install EASYFOOD, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd EASYFOOD
+    cd EasyFood
     ```
 
 3. Install the required dependencies. Assuming you're using a virtual environment, activate it first, then install dependencies:
