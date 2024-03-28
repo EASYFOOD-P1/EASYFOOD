@@ -1,0 +1,12 @@
+#navBar {
+    margin : 0px;
+    padding: 0px;
+    list-style: none;
+    text-transform: uppercase;
+
+}
+#navBar li {
+    display: inline;
+    margin: 0 30px;
+    color: darkblue;
+}

@@ -1,0 +1,17 @@
+
+{% load static %}
+
+
+<html>
+    <head>
+    <title> {% block title %} {% endblock %} </title>
+    <link type = 'text/css' rel="stylesheet" href='{% static "css/nav_bar.css" %}'/>
+    </head>
+    
+    <body>
+        {% include "nav_bar.html"%}
+        <h1 > EASYFOOD </h1>
+        <p> {% block content %}  {%endblock%}</p>
+        <p>ESTE ES EL PIE DE PAGINA</p>
+    </body>
+</html>
