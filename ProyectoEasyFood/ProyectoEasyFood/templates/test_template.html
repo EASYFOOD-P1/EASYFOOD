@@ -1,15 +1,8 @@
+{% extends "base_template.html" %}
+
+{% block title %} Test Template {% endblock %}
 
 
-
-<html>
-
-    <head>
-            <title>
-                <h1 style = "color: cornflowerblue; ">This is just a test template</h1>
-            </title>
-    </head>
-
-    <body>
-        <p>This is just a test paragraph for the test template {{project_name}}</p>
-    </body>
-</html>
+{% block content %} 
+    <p>This is just a test paragraph for the test template for the project {{project_name}}</p>
+{% endblock %}
