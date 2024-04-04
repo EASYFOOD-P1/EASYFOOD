@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Frisnacks",
+        "description": "Combinación de Chicken Fingers, Papas fritas y Gaseosa.",
+        "price": 18000,
+        "image": "static/EasyFood/img-1.png"
+    },
+    {
+        "title": "Fristodonte",
+        "description": "Hamburguesa de pollo con tocineta, queso, lechuga y tomate, acompañada de papas a la francesa y gaseosa.",
+        "price": 16000,
+        "image": "static/EasyFood/img-2.png"
+        
+    },
+    {
+        "title": "Frisburrito",
+        "description": "Tiras de pollo en forma de burrito con tortilla, lechuga, pico de gallo y salsa.",
+        "price": 18000,
+        "image": "static/EasyFood/img-3.png"
+    }
+]
