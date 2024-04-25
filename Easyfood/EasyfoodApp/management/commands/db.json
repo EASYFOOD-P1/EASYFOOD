@@ -1,21 +1,72 @@
 [
     {
-        "title": "Frisnacks",
-        "description": "Combinación de Chicken Fingers, Papas fritas y Gaseosa.",
-        "price": 18000,
-        "image": "static/EasyFood/img-1.png"
+        "title": "Combo Especial",
+        "description": "10 Presas apanadas, 10 arepas, ensalada de repollo familiar (370 g)",
+        "price": 72200,
+        "image": "https://images.rappi.com/products/tmp2733723213276541831298038125.png?d=300x300&e=webp&q=10",
+        "sys_description": "El Combo Especial consiste en 10 presas apanadas, 10 arepas y una ensalada de repollo familiar (370 g). Las presas apanadas son crujientes por fuera y jugosas por dentro, perfectas para los amantes del pollo frito. Las arepas son suaves y esponjosas, ideales para acompa\u00f1ar las presas. La ensalada de repollo familiar es fresca y deliciosa, con un aderezo ligero que realza su sabor.\n\nEn cuanto a la salud, este combo es medianamente saludable, ya que las presas apanadas y las arepas son alimentos fritos que pueden ser altos en grasas y calor\u00edas. Sin embargo, la ensalada de repollo aporta fibra y vitaminas, lo que equilibra un poco la comida.\n\nEn cuanto al precio, el Combo Especial es medianamente caro, ya que incluye una buena cantidad de comida. La porci\u00f3n es grande, por lo que es ideal para compartir o para aquellos con un gran apetito.\n\nEn resumen, el Combo Especial es una opci\u00f3n deliciosa y satisfactoria para aquellos que disfrutan de la comida frita y quieren disfrutar de una variedad de sabores en una sola comida."
     },
     {
-        "title": "Fristodonte",
-        "description": "Hamburguesa de pollo con tocineta, queso, lechuga y tomate, acompañada de papas a la francesa y gaseosa.",
-        "price": 16000,
-        "image": "static/EasyFood/img-2.png"
-        
+        "title": "Combo Especial Con Gaseosa",
+        "description": "10 Presas apanadas, 10 arepas, ensalada de repollo familiar (370 g) y gaseosa (1.5 litros)",
+        "price": 75100,
+        "image": "https://images.rappi.com/products/tmp2733725710733477540678613876.png?d=300x300&e=webp&q=10",
+        "sys_description": "El Combo Especial Con Gaseosa es una opci\u00f3n ideal para aquellos que buscan una comida abundante y deliciosa. Este combo incluye 10 presas apanadas, 10 arepas, una ensalada de repollo familiar de 370 gramos y una gaseosa de 1.5 litros.\n\nLas presas apanadas son crujientes por fuera y jugosas por dentro, perfectas para los amantes del pollo frito. Las arepas son suaves y esponjosas, ideales para acompa\u00f1ar las presas. La ensalada de repollo aporta un toque fresco y saludable al combo.\n\nEn cuanto a la salud, este combo no es la opci\u00f3n m\u00e1s saludable debido a su contenido frito y carbohidratos. Sin embargo, es una comida deliciosa para disfrutar de vez en cuando.\n\nEn cuanto al precio, este combo se considera medianamente caro debido a la cantidad de comida que incluye. La porci\u00f3n es grande, por lo que es ideal para compartir o para aquellos con un gran apetito.\n\nEn resumen, el Combo Especial Con Gaseosa es una opci\u00f3n deliciosa y abundante para aquellos que buscan una comida satisfactoria. \u00a1Disfruta de este combo con tus seres queridos!"
     },
     {
-        "title": "Frisburrito",
-        "description": "Tiras de pollo en forma de burrito con tortilla, lechuga, pico de gallo y salsa.",
-        "price": 18000,
-        "image": "static/EasyFood/img-3.png"
+        "title": "Combo Unidos",
+        "description": "10 Presas apanadas, 2 porciones de papas a la francesa grande (100 g), 1 porci?n de yuca stick (10 und), ensalada de repollo familiar (370 g) y gaseosa (1.5 litros)",
+        "price": 84100,
+        "image": "https://images.rappi.com/products/tmp325923937717257366814221527.png?d=300x300&e=webp&q=10",
+        "sys_description": "El Combo Unidos es una deliciosa combinaci\u00f3n de 10 presas apanadas, 2 porciones de papas a la francesa grandes (100 g cada una), 1 porci\u00f3n de yuca stick (10 unidades), ensalada de repollo familiar (370 g) y una gaseosa de 1.5 litros.\n\nEn cuanto a la salud, este combo no es muy saludable debido a que contiene alimentos fritos y una bebida gaseosa. Sin embargo, la ensalada de repollo aporta un toque de frescura y nutrientes.\n\nEn cuanto al precio, el Combo Unidos se considera medianamente caro debido a la cantidad de alimentos incluidos en el combo.\n\nEn cuanto al tama\u00f1o de las porciones, las papas a la francesa y la ensalada de repollo son grandes, mientras que la porci\u00f3n de yuca stick es peque\u00f1a. \n\nEn resumen, el Combo Unidos es una opci\u00f3n sabrosa y abundante, pero no muy saludable y con un precio medianamente caro. \u00a1Ideal para compartir en una reuni\u00f3n o celebraci\u00f3n!"
+    },
+    {
+        "title": "Combo Full",
+        "description": "8 Presas apanadas, 10 arepas, ensalada de repollo familiar (370 g) y gaseosa (1.5 litros)",
+        "price": 65900,
+        "image": "https://images.rappi.com/products/tmp5364313316327620031967142173.png?d=300x300&e=webp&q=10",
+        "sys_description": "El Combo Full es una deliciosa combinaci\u00f3n de 8 presas apanadas, 10 arepas, una ensalada de repollo familiar (370 g) y una gaseosa de 1.5 litros. \n\nEn cuanto a su salud, este combo no es muy saludable debido a que las presas apanadas y las arepas son alimentos fritos y altos en calor\u00edas. Sin embargo, la ensalada de repollo aporta un toque de frescura y fibra al plato. \n\nEn cuanto al precio, el Combo Full se considera medianamente caro debido a la cantidad de alimentos que incluye. \n\nEn cuanto a la porci\u00f3n, este combo es grande y puede ser compartido entre varias personas. \n\nEn resumen, el Combo Full es una opci\u00f3n sabrosa y abundante, ideal para compartir en una reuni\u00f3n o celebraci\u00f3n, pero no es la opci\u00f3n m\u00e1s saludable ni econ\u00f3mica."
+    },
+    {
+        "title": "Pague 5 Lleve 6",
+        "description": "5 Donuts y lleva 6 donuts, sabor a elecci\u00f3n",
+        "price": 25000,
+        "image": "https://images.rappi.com/products/tmp473631285858201892212764751.png?d=300x300&e=webp&q=10",
+        "sys_description": "El producto \"Pague 5 Lleve 6\" consiste en 5 donuts de sabor a elecci\u00f3n, y lleva un donut adicional de regalo. Los donuts son dulces y deliciosos, ideales para disfrutar como postre o merienda. En cuanto a su salud, los donuts no son la opci\u00f3n m\u00e1s saludable debido a su alto contenido de az\u00facar y grasas. Sin embargo, si se consumen con moderaci\u00f3n, pueden ser parte de una dieta equilibrada.\n\nEn cuanto al precio, este producto se considera medianamente barato, ya que obtienes un donut adicional de forma gratuita. La porci\u00f3n de donuts es grande, ya que incluye 6 unidades en total. Es importante tener en cuenta que el exceso de consumo de donuts puede contribuir al aumento de peso y problemas de salud a largo plazo. Se recomienda disfrutarlos con moderaci\u00f3n."
+    },
+    {
+        "title": "Pague 9 Lleva 12 Donuts",
+        "description": "Donuts a tu elecci\u00f3n, lleva 12x9",
+        "price": 45000,
+        "image": "https://images.rappi.com/products/tmp473631164843829123671367185.png?d=300x300&e=webp&q=10",
+        "sys_description": "El producto \"Pague 9 Lleva 12 Donuts\" consiste en una oferta de 12 donuts a tu elecci\u00f3n por el precio de 9. Los donuts son dulces y deliciosos, ideales para disfrutar como postre o merienda. \n\nEn cuanto a su saludabilidad, los donuts suelen ser altos en calor\u00edas, grasas y az\u00facares, por lo que se consideran un alimento poco saludable si se consume en exceso. Sin embargo, disfrutar de un donut de vez en cuando como parte de una dieta equilibrada no tiene por qu\u00e9 ser perjudicial para la salud.\n\nEn cuanto al precio, esta oferta de 12 donuts por el precio de 9 se considera una buena oferta, ya que obtienes m\u00e1s por tu dinero. \n\nEn cuanto al tama\u00f1o de la porci\u00f3n, al tratarse de 12 donuts, la porci\u00f3n se considera grande, por lo que es ideal para compartir o para disfrutar en varias ocasiones.\n\nEn resumen, el producto \"Pague 9 Lleva 12 Donuts\" es una opci\u00f3n deliciosa y econ\u00f3mica para los amantes de los dulces, aunque se debe consumir con moderaci\u00f3n debido a su contenido cal\u00f3rico y de az\u00facares."
+    },
+    {
+        "title": "Caja de 4 Donuts Premium",
+        "description": "Caja de 4 donuts premium, sabor a elecci\u00f3n.",
+        "price": 23000,
+        "image": "https://images.rappi.com/products/2097851098-1713209727834.jpg?d=300x300&e=webp&q=10",
+        "sys_description": "La caja de 4 donuts premium es un producto delicioso que consiste en 4 donuts de alta calidad con un sabor a elecci\u00f3n. Cada donut est\u00e1 cuidadosamente elaborado con ingredientes frescos y de primera calidad, lo que garantiza un sabor excepcional.\n\nEn cuanto a su saludabilidad, los donuts premium no son la opci\u00f3n m\u00e1s saludable debido a su alto contenido de az\u00facar y grasas. Por lo tanto, se recomienda consumirlos con moderaci\u00f3n si est\u00e1s siguiendo una dieta equilibrada.\n\nEn cuanto al precio, la caja de 4 donuts premium puede considerarse medianamente cara, ya que se trata de un producto gourmet que ofrece una experiencia de sabor \u00fanica.\n\nEn cuanto al tama\u00f1o de la porci\u00f3n, cada donut es de tama\u00f1o mediano, por lo que es ideal para disfrutar como un delicioso postre o tentempi\u00e9. \u00a1Disfruta de estos deliciosos donuts premium en tu sabor favorito!"
+    },
+    {
+        "title": "Combo S\u00e1ndwich Italian\u00edssimo 15 Cm",
+        "description": "S\u00e1ndwich de rebanadas de peperoni y salami estilo g\u00e9nova, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+        "price": 28800,
+        "image": "https://images.rappi.com/products/2090788075-1569528577.png?d=300x300&e=webp&q=10",
+        "sys_description": "El Combo S\u00e1ndwich Italian\u00edssimo 15 Cm es un delicioso s\u00e1ndwich que consiste en rebanadas de peperoni y salami estilo g\u00e9nova, acompa\u00f1ado de pan, queso, vegetales y salsas a tu elecci\u00f3n. Es una opci\u00f3n muy sabrosa y satisfactoria para aquellos que disfrutan de los sabores intensos de la cocina italiana.\n\nEn cuanto a su saludabilidad, este combo puede considerarse medianamente saludable, ya que los embutidos como el salami y el peperoni suelen ser altos en grasas y sodio. Sin embargo, al poder elegir los ingredientes del s\u00e1ndwich, es posible optar por opciones m\u00e1s saludables como pan integral, queso bajo en grasa y vegetales frescos.\n\nEn cuanto al precio, el Combo S\u00e1ndwich Italian\u00edssimo 15 Cm se puede considerar como un producto de precio medio, ya que incluye varios elementos como el s\u00e1ndwich, la bebida y las papas o galletas.\n\nEn cuanto al tama\u00f1o de la porci\u00f3n, el s\u00e1ndwich de 15 cm es de tama\u00f1o mediano, lo que lo hace una opci\u00f3n adecuada para una comida completa.\n\nEn resumen, el Combo S\u00e1ndwich Italian\u00edssimo 15 Cm es una opci\u00f3n sabrosa y satisfactoria, con ingredientes de calidad y la posibilidad de personalizarlo a tu gusto. Es una opci\u00f3n medianamente saludable y de precio medio, con una porci\u00f3n de tama\u00f1o mediano que te dejar\u00e1 satisfecho."
+    },
+    {
+        "title": "S\u00e1ndwich At\u00fan 15 cm",
+        "description": "S\u00e1ndwich de at\u00fan seleccionado de la m\u00e1s alta calidad mezclado con mayonesa, escoge el pan, queso, vegetales y salsas que prefieras.",
+        "price": 19400,
+        "image": "https://images.rappi.com/products/2090788090-1569522886.jpg?d=300x300&e=webp&q=10",
+        "sys_description": "El S\u00e1ndwich de At\u00fan de 15 cm es una deliciosa opci\u00f3n para aquellos que buscan una comida r\u00e1pida y sabrosa. Este s\u00e1ndwich est\u00e1 hecho con at\u00fan de alta calidad mezclado con mayonesa, y puedes personalizarlo eligiendo el tipo de pan, queso, vegetales y salsas que prefieras.\n\nEn cuanto a su saludabilidad, el S\u00e1ndwich de At\u00fan puede considerarse medianamente saludable, ya que el at\u00fan es una buena fuente de prote\u00ednas y \u00e1cidos grasos omega-3, pero la mayonesa y el queso pueden a\u00f1adir calor\u00edas y grasas adicionales. \n\nEn cuanto al precio, este s\u00e1ndwich puede considerarse medianamente caro, ya que el at\u00fan de alta calidad puede ser un poco m\u00e1s costoso que otras opciones de s\u00e1ndwiches.\n\nEn cuanto al tama\u00f1o de la porci\u00f3n, el S\u00e1ndwich de At\u00fan de 15 cm puede considerarse de tama\u00f1o mediano, lo que lo hace una opci\u00f3n adecuada para una comida ligera o como parte de un almuerzo m\u00e1s completo. \n\nEn resumen, el S\u00e1ndwich de At\u00fan de 15 cm es una opci\u00f3n sabrosa y personalizable, con un equilibrio entre saludabilidad y precio, ideal para aquellos que buscan una comida r\u00e1pida y satisfactoria."
+    },
+    {
+        "title": "Combo para Dos",
+        "description": "2 Subs 15cm (1 at\u00fan y el otro Italiano BMT) + 2 Bebidas Pet 400ml + 2 Galletas a elecci\u00f3n.",
+        "price": 47900,
+        "image": "https://images.rappi.com/products/2095811787-1709744436367.jpg?d=300x300&e=webp&q=10",
+        "sys_description": "El Combo para Dos consiste en dos Subs de 15cm, uno de at\u00fan y otro Italiano BMT, acompa\u00f1ados de dos bebidas Pet de 400ml y dos galletas a elecci\u00f3n. \n\nEn cuanto a la salud, los Subs pueden considerarse medianamente saludables dependiendo de los ingredientes y condimentos utilizados. Las bebidas y galletas pueden ser consideradas como poco saludables debido a su contenido de az\u00facar y calor\u00edas.\n\nEn cuanto al precio, el Combo para Dos puede considerarse como medianamente caro, ya que incluye varios elementos y es ideal para compartir.\n\nLa porci\u00f3n de cada Sub de 15cm puede considerarse como mediana, mientras que las bebidas y galletas suelen ser en porciones individuales.\n\nEn resumen, el Combo para Dos es una opci\u00f3n conveniente para compartir con otra persona, con una variedad de sabores y opciones, aunque se debe tener en cuenta su contenido cal\u00f3rico y precio."
     }
 ]

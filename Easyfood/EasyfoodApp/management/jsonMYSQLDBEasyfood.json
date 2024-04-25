@@ -1,0 +1,1730 @@
+[
+	{
+		"codigo_producto" : "2001",
+		"nombre_producto" : "Combo Especial",
+		"descripcion_producto" : "10 Presas apanadas, 10 arepas, ensalada de repollo familiar (370 g)",
+		"precio_producto" : 72200,
+		"imagen_producto" : "https://images.rappi.com/products/tmp2733723213276541831298038125.png?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2002",
+		"nombre_producto" : "Combo Especial Con Gaseosa",
+		"descripcion_producto" : "10 Presas apanadas, 10 arepas, ensalada de repollo familiar (370 g) y gaseosa (1.5 litros)",
+		"precio_producto" : 75100,
+		"imagen_producto" : "https://images.rappi.com/products/tmp2733725710733477540678613876.png?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2003",
+		"nombre_producto" : "Combo Unidos",
+		"descripcion_producto" : "10 Presas apanadas, 2 porciones de papas a la francesa grande (100 g), 1 porci?n de yuca stick (10 und), ensalada de repollo familiar (370 g) y gaseosa (1.5 litros)",
+		"precio_producto" : 84100,
+		"imagen_producto" : "https://images.rappi.com/products/tmp325923937717257366814221527.png?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2004",
+		"nombre_producto" : "Combo Full",
+		"descripcion_producto" : "8 Presas apanadas, 10 arepas, ensalada de repollo familiar (370 g) y gaseosa (1.5 litros)",
+		"precio_producto" : 65900,
+		"imagen_producto" : "https://images.rappi.com/products/tmp5364313316327620031967142173.png?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2005",
+		"nombre_producto" : "Combo Completico",
+		"descripcion_producto" : "2 Presas apanadas, papas a la francesa mediana (60 g), sopa de verduras, ajiaquillo, consom? o sancochito (350 g) y gaseosa (325 ml)",
+		"precio_producto" : 31500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2006",
+		"nombre_producto" : "Combo Fristiernos",
+		"descripcion_producto" : "4 Tenders de pollo apanado crispy (45 g und), papas a la francesa mediana (60 g) y gaseosa (325 ml)",
+		"precio_producto" : 21900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2007",
+		"nombre_producto" : "Frisby Cl?sico",
+		"descripcion_producto" : "2 Presas apanadas( Sujeta a disponibilidad), ensalada de repollo personal (145 g) y gaseosa (325 ml)",
+		"precio_producto" : 21900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2008",
+		"nombre_producto" : "Frisby Alitas",
+		"descripcion_producto" : "6 Alitas apanadas (una alita equivale a un trozo de ala), papas a la francesa mediana (60 g), ensalada de repollo personal (145 g) y gaseosa (325 ml)",
+		"precio_producto" : 24400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2009",
+		"nombre_producto" : "Frisby Tradicional",
+		"descripcion_producto" : "2 Presas apanadas (sujetas a disponibilidad), porci?n de arroz (120 g), porci?n de frijol (190 g), ensalada de repollo personal (145 g), 2 arepas y gaseosa (325 ml)",
+		"precio_producto" : 26300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2010",
+		"nombre_producto" : "Frisby Con Papas",
+		"descripcion_producto" : "2 Presas apanadas(Sabor sujeto a disponibilidad), papas a la francesa mediana (60 g) y gaseosa (325 ml)",
+		"precio_producto" : 21900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2011",
+		"nombre_producto" : "Frisby Alitas Bbq",
+		"descripcion_producto" : "6 Alitas apanadas (una alita equivale a un trozo de ala) ba?adas en salsa bbq ligeramente picante , papas a la francesa mediana (60 g), ensalada de repollo personal (145 g) y gaseo",
+		"precio_producto" : 27000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2012",
+		"nombre_producto" : "Frisby Picanugys",
+		"descripcion_producto" : "9 Trozos de pechuga apanada (15 g und), papas a la francesa mediana (60 g), ensalada de repollo personal (145 g) y gaseosa (325 ml)",
+		"precio_producto" : 21900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2013",
+		"nombre_producto" : "Frisby Picanugys Bbq",
+		"descripcion_producto" : "9 Trozos de pechuga apanada (15 g und) ba?ados en salsa bbq ligeramente picante, papas a la francesa mediana (60 g), ensalada de repollo personal (145 g) y gaseosa (325 ml)",
+		"precio_producto" : 23900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2014",
+		"nombre_producto" : "Combo Bbq",
+		"descripcion_producto" : "2 Presas apanadas ba?adas en salsa bbq ligeramente picante, papas a la francesa mediana (60 g), ensalada de repollo personal (145 g) y gaseosa (325 ml)",
+		"precio_producto" : 23600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2015",
+		"nombre_producto" : "Combo Fristiernos Bbq",
+		"descripcion_producto" : "4 Tenders de pollo apanado crispy (45 g und) ba?ados en salsa bbq ligeramente picante, papas a la francesa mediana (60 g) y gaseosa (325 ml)",
+		"precio_producto" : 24000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2016",
+		"nombre_producto" : "Combo Fristodonte",
+		"descripcion_producto" : "Filete de pechuga apanada (110 g), ensalada de repollo (50 g), papas a la francesa mediana (60 g) y gaseosa (325 ml). escoge entre salsa b?falo sriracha, bbq, salsa frisby o corean",
+		"precio_producto" : 27500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2017",
+		"nombre_producto" : "Comparti2",
+		"descripcion_producto" : "2 Presas apanadas (sujeta a disponibilidad), 4 picanugys (15 g und), 3 tornados de pollo (12 g und), 2 porciones de papas francesas medianas (60 g und), 2 ensaladas de repollo personal (145 g und) y 2 gaseo",
+		"precio_producto" : 45500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2018",
+		"nombre_producto" : "Combo Frisburrito",
+		"descripcion_producto" : "1 Frisburrito ranch o bbq, papas a la francesa mediana (60 g) y gaseosa (325 ml)",
+		"precio_producto" : 21900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2019",
+		"nombre_producto" : "Combo Nuestro",
+		"descripcion_producto" : "2 Presas apanadas (Sujeta a disponibilidad), ensalada de repollo personal (145 g), papas a la francesa mediana (60 g) y gaseosa (325 ml)",
+		"precio_producto" : 23500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2020",
+		"nombre_producto" : "Combo Frisby Cl?sico, Sopa",
+		"descripcion_producto" : "2 Presas apanadas, ensalada de repollo personal (145 g), sopa de verduras, ajiaquillo o consom? (350 g) y gaseosa (325 ml)",
+		"precio_producto" : 26600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2021",
+		"nombre_producto" : "Hamburguesa Bio",
+		"descripcion_producto" : "Filete de prote?na vegetal (115 g), ensalada de repollo (50 g). escoge entre salsa b?falo sriracha, bbq o coreana",
+		"precio_producto" : 20900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2022",
+		"nombre_producto" : "Combo Hamburguesa Bio",
+		"descripcion_producto" : "Filete de prote?na vegetal (115 g), ensalada de repollo (50 g), papas a la francesa mediana (60 g) y gaseosa (325 ml). escoge entre salsa b?falo sriracha, bbq o coreana",
+		"precio_producto" : 27500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2023",
+		"nombre_producto" : "Frisby Picanugys Bio",
+		"descripcion_producto" : "9 Trozos de prote?na vegetal apanado (12 g und), papas a la francesa mediana (60 g), ensalada de repollo personal (145 g) y gaseosa (325 ml)",
+		"precio_producto" : 21900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2024",
+		"nombre_producto" : "Frisnacks Bio En Caja",
+		"descripcion_producto" : "10 Picanugys bio (13 g und), papas a la francesa grande (100 g) y gaseosa (470 ml)",
+		"precio_producto" : 26600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2025",
+		"nombre_producto" : "Cuarto Frisby Arepas",
+		"descripcion_producto" : "2 Presas y 3 arepas",
+		"precio_producto" : 17400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2026",
+		"nombre_producto" : "Medio Frisby Arepas",
+		"descripcion_producto" : "4 Presas apanadas y 6 arepas",
+		"precio_producto" : 28500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2027",
+		"nombre_producto" : "Pollo Frisby Arepas",
+		"descripcion_producto" : "8 Presas apanadas y 10 arepas",
+		"precio_producto" : 52500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2028",
+		"nombre_producto" : "Familiar Frisby Arepas",
+		"descripcion_producto" : "12 Presas apanadas y 12 arepas",
+		"precio_producto" : 76000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2029",
+		"nombre_producto" : "Cuarto Frisby Francesa",
+		"descripcion_producto" : "2 Presas y porci?n de papas a la francesa mediana (60 g)",
+		"precio_producto" : 22000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2030",
+		"nombre_producto" : "Medio Frisby Francesa",
+		"descripcion_producto" : "4 Presas apanadas y 2 porciones de papas a la francesa mediana (60 g und)",
+		"precio_producto" : 36500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2031",
+		"nombre_producto" : "Familiar Frisby Francesa",
+		"descripcion_producto" : "12 Presas apanadas y 6 porciones de papas a la francesa mediana (60 g und)",
+		"precio_producto" : 92500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2032",
+		"nombre_producto" : "Pollo Frisby Francesa",
+		"descripcion_producto" : "8 Presas apanadas y 4 porciones de papas a la francesa mediana (60 g und)",
+		"precio_producto" : 66400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2033",
+		"nombre_producto" : "Medio Frisby Bbq Arepas",
+		"descripcion_producto" : "4 Presas ba?adas en salsa bbq ligeramente picante y 6 arepas",
+		"precio_producto" : 31000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2034",
+		"nombre_producto" : "Pollo Frisby Bbq Arepas",
+		"descripcion_producto" : "8 Presas ba?adas en salsa bbq ligeramente picante y 10 arepas",
+		"precio_producto" : 59500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2035",
+		"nombre_producto" : "Medio Frisby Bbq Francesa",
+		"descripcion_producto" : "4 Presas ba?adas en salsa bbq ligeramente y 2 pociones de papas a la francesa mediana (60 g und)",
+		"precio_producto" : 39500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2036",
+		"nombre_producto" : "Pollo Frisby Bbq Francesa",
+		"descripcion_producto" : "8 Presas ba?adas en salsa bbq ligeramente picante y 4 porciones de papas a la francesa mediana (60 g und)",
+		"precio_producto" : 73900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2037",
+		"nombre_producto" : "Ensalada Asi?tica",
+		"descripcion_producto" : "Lechuga, zanahoria, tomates cherry, maicitos, nueces con frutas y aderezo s?samo. elige tu prote?na favorita entre nuggets de pollo (9und, 15gr c/u), filete asado (en trozos, 150gr",
+		"precio_producto" : 27900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2038",
+		"nombre_producto" : "Ensalada Maya",
+		"descripcion_producto" : "Lechuga, maicitos, pico de gallo, guacamole, frijol negro, triangulitos de ma?z y aderezo mexicano. elige tu prote?na favorita entre nuggets de pollo (9und, 15gr c/u), filete asado",
+		"precio_producto" : 27900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2039",
+		"nombre_producto" : "Frischuleta",
+		"descripcion_producto" : "Chuleta apanada crispy (150 g) con sabor a parrilla, ensalada de repollo personal (145 g) y papas a la francesa grande (100 g)",
+		"precio_producto" : 30400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2040",
+		"nombre_producto" : "Frispicada",
+		"descripcion_producto" : "10 Alitas (una alita equivale a un trozo de ala), 15 picanugys (15 g und), 12 tornados de pollo (12 g und), 15 croquetas de yuca sticks, 5 trozos de mazorca dulce, 8 arepas fritas",
+		"precio_producto" : 81500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2041",
+		"nombre_producto" : "Super Frispicada",
+		"descripcion_producto" : "10 Alitas (una alita equivale a un trozo de ala), 15 picanugys (22 g und), 12 tornados de pollo (12 g und), 15 croquetas de yuca sticks, 5 trozos de mazorca dulce, 8 arepas y 4 pre",
+		"precio_producto" : 94500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2042",
+		"nombre_producto" : "Frisnacks En Caja",
+		"descripcion_producto" : "7 Tornados de pollo (12 g und), papas a la francesa mediana (60 g) y gaseosa (470 ml)",
+		"precio_producto" : 20700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2043",
+		"nombre_producto" : "Frisnacks Mediano En Caja",
+		"descripcion_producto" : "10 Tornados de pollo (12 g und), papas a la francesa grande (100 g) y gaseosa (470 ml)",
+		"precio_producto" : 26600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2044",
+		"nombre_producto" : "Frisnacks Grande En Caja",
+		"descripcion_producto" : "13 Tornados de pollo (12 g und), papas a la francesa grande (100 g), gaseosa (470 ml)",
+		"precio_producto" : 28700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2045",
+		"nombre_producto" : "Fristodonte",
+		"descripcion_producto" : "Filete de pechuga apanada (110 g), ensalada de repollo (50 g). escoge entre salsa b?falo sriracha, bbq, salsa frisby o coreana",
+		"precio_producto" : 20900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2046",
+		"nombre_producto" : "Fristiernos",
+		"descripcion_producto" : "4 Tenders de pollo apanado crispy (45 g und)",
+		"precio_producto" : 19600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2047",
+		"nombre_producto" : "Frisnacks Nuggets Mediano En Caja",
+		"descripcion_producto" : "11 Trozos de pechuga apanada (15 g und), papas a la francesa grande (100 g), gaseosa (400 ml)",
+		"precio_producto" : 24600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2048",
+		"nombre_producto" : "Frisnacks Nuggets Grande En Caja",
+		"descripcion_producto" : "13 Trozos de pechuga apanada (15 g und), papas a la francesa grande (100 g), gaseosa (400 ml)",
+		"precio_producto" : 26700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2049",
+		"nombre_producto" : "Frisburrito",
+		"descripcion_producto" : "Frisburrito ranch o bbq",
+		"precio_producto" : 14400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2050",
+		"nombre_producto" : "Frisby Kids Muslo",
+		"descripcion_producto" : "Muslo apanado, papas a la francesa mediana (60 g), hit en cajita (200 ml), golosina y un divertido juguete",
+		"precio_producto" : 21900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2051",
+		"nombre_producto" : "Frisby Kids Picanugys",
+		"descripcion_producto" : "6 Picanugys (15 g und), papas a la francesa mediana (60 g), hit en cajita (200 ml), golosina y un divertido juguete",
+		"precio_producto" : 21900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2052",
+		"nombre_producto" : "Porci?n De Arepas",
+		"descripcion_producto" : "Porci?n de arepas (4 und)",
+		"precio_producto" : 5300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2053",
+		"nombre_producto" : "Ensalada De Repollo Personal",
+		"descripcion_producto" : "Ensalada de repollo personal (145 g)",
+		"precio_producto" : 8900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2054",
+		"nombre_producto" : "Ensalada De Repollo Familiar",
+		"descripcion_producto" : "Ensalada de repollo familiar (370 g)",
+		"precio_producto" : 20200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2055",
+		"nombre_producto" : "Ensalada De Papa Personal",
+		"descripcion_producto" : "Ensalada de papa personal (145 g)",
+		"precio_producto" : 8900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2056",
+		"nombre_producto" : "Ensalada Del Campo Personal",
+		"descripcion_producto" : "Lechuga, zanahoria y tomate cherry (75 g)",
+		"precio_producto" : 5200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2057",
+		"nombre_producto" : "Porci?n De Frijol Personal",
+		"descripcion_producto" : "Porci?n de frijoles personal (190 g)",
+		"precio_producto" : 9500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2058",
+		"nombre_producto" : "Croquetas De Yuca Sticks",
+		"descripcion_producto" : "Croquetas de yuca sticks (10 und)",
+		"precio_producto" : 9700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2059",
+		"nombre_producto" : "Trozos De Mazorca Dulce",
+		"descripcion_producto" : "Trozos de mazorca dulce ba?ada en mantequilla (3 und)",
+		"precio_producto" : 11300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2060",
+		"nombre_producto" : "Porci?n De Arroz Personal",
+		"descripcion_producto" : "Porci?n de arroz personal (120 g)",
+		"precio_producto" : 5200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2061",
+		"nombre_producto" : "Francesa Grande",
+		"descripcion_producto" : "Papas a la francesa grande (100 g)",
+		"precio_producto" : 9200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2062",
+		"nombre_producto" : "Pl?tano Maduro",
+		"descripcion_producto" : "Pl?tano maduro frito con mermelada de bocadillo y queso fundido",
+		"precio_producto" : 11900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2063",
+		"nombre_producto" : "Sopas",
+		"descripcion_producto" : "Escoge entre sopas de verduras, ajiaquillo, consom? o sancochito (350 g)",
+		"precio_producto" : 10900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2064",
+		"nombre_producto" : "Postres",
+		"descripcion_producto" : "Disfruta tu sabor preferido: tres leches milo (130 g), tres leches frutos rojos (70 g), combinado de maracuy? (70 g) y tres leches arequipe (130 g)",
+		"precio_producto" : 8000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2065",
+		"nombre_producto" : "Agua Cristal 600 Ml",
+		"descripcion_producto" : "Agua cristal (600 ml)",
+		"precio_producto" : 4500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2066",
+		"nombre_producto" : "Gaseosa 1.5 Litros",
+		"descripcion_producto" : "Gaseosa (1.5 litros)",
+		"precio_producto" : 6700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2067",
+		"nombre_producto" : "Limonada Natural 400 Ml",
+		"descripcion_producto" : "Limonada natural (400 ml)",
+		"precio_producto" : 8700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2068",
+		"nombre_producto" : "Hit En Cajita 200 Ml",
+		"descripcion_producto" : "Hit en cajita (200 ml)",
+		"precio_producto" : 4500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2069",
+		"nombre_producto" : "Agua Saborizada H2oh! 600 Ml",
+		"descripcion_producto" : "Agua saborizada h2oh! (600 ml)",
+		"precio_producto" : 6500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2070",
+		"nombre_producto" : "Jugo 400 Ml",
+		"descripcion_producto" : "Jugos de mango, mora o guan?bana (400 ml)",
+		"precio_producto" : 8700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2071",
+		"nombre_producto" : "Mr Tea 500 Ml",
+		"descripcion_producto" : "Mr tea lim?n (500 ml)",
+		"precio_producto" : 4500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2072",
+		"nombre_producto" : "Gaseosa 400 Ml",
+		"descripcion_producto" : "Gaseosa (400 ml)",
+		"precio_producto" : 4600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1001",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2073",
+		"nombre_producto" : "Pague 5 Lleve 6",
+		"descripcion_producto" : "5 Donuts y lleva 6 donuts, sabor a elección",
+		"precio_producto" : 25000,
+		"imagen_producto" : "https://images.rappi.com/products/tmp473631285858201892212764751.png?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2074",
+		"nombre_producto" : "Pague 9 Lleva 12 Donuts",
+		"descripcion_producto" : "Donuts a tu elección, lleva 12x9",
+		"precio_producto" : 45000,
+		"imagen_producto" : "https://images.rappi.com/products/tmp473631164843829123671367185.png?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2075",
+		"nombre_producto" : "Caja de 4 Donuts Premium",
+		"descripcion_producto" : "Caja de 4 donuts premium, sabor a elección.",
+		"precio_producto" : 23000,
+		"imagen_producto" : "https://images.rappi.com/products/2097851098-1713209727834.jpg?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2076",
+		"nombre_producto" : "Combo Dunkin Flat Ice Latte",
+		"descripcion_producto" : "Sándwich a elección, donut pequeña chocolate y ice latte de 16 onz.",
+		"precio_producto" : 26000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2077",
+		"nombre_producto" : "Combo Dunkin Flat Coca-cola",
+		"descripcion_producto" : "Sándwich a elección, donut pequeña de chocolate y coca-cola sin azúcar 330 ml.",
+		"precio_producto" : 25000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2078",
+		"nombre_producto" : "Combo Dunkin Flat Frutibatido",
+		"descripcion_producto" : "Sándwich a elección, donut pequeña de chocolate y frutibatido a elección.",
+		"precio_producto" : 26000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2079",
+		"nombre_producto" : "Enduplado Iced Latte & Donut",
+		"descripcion_producto" : "1 Iced latte 10 oz acompañado de una deliciosa donut de tu sabor preferido.",
+		"precio_producto" : 9500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2080",
+		"nombre_producto" : "Enduplado Latte & Donut",
+		"descripcion_producto" : "Latte 10 oz acompañado de una deliciosa donut de tu sabor preferido.",
+		"precio_producto" : 9500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2081",
+		"nombre_producto" : "Enduplado Capuccino & Donut",
+		"descripcion_producto" : "1 Capuccino 10 oz acompañado de una deliciosa donut de tu sabor preferido.",
+		"precio_producto" : 9500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2082",
+		"nombre_producto" : "Donut Unidad",
+		"descripcion_producto" : "Donut a elección.",
+		"precio_producto" : 5000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2083",
+		"nombre_producto" : "3 Donuts",
+		"descripcion_producto" : "Donuts x 3 a elección.",
+		"precio_producto" : 15000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2084",
+		"nombre_producto" : "Donut Premium Pirulin Arequipe",
+		"descripcion_producto" : "Donut rellena de arequipe, cubierto de frosting blanco y barquillos pirulin.",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2085",
+		"nombre_producto" : "Donut Premium Pirulin Chantilly",
+		"descripcion_producto" : "Donut relleno de chantilly, cubierto de frosting morado y barquillos pirulin.",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2086",
+		"nombre_producto" : "Donut Premium Triple Chocolate",
+		"descripcion_producto" : "Donut premium triple chocolate.",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2087",
+		"nombre_producto" : "Donut Premium Oreo",
+		"descripcion_producto" : "Donut rellena de arequipe, cubierta con chocolate negro y trozos de galleta oreo",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2088",
+		"nombre_producto" : "Donut Premium Megamaní",
+		"descripcion_producto" : "Donut rellena y cubierta de crema de maní, decorada con maní confitado",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2089",
+		"nombre_producto" : "Donut Premium Encanto de Chocolate",
+		"descripcion_producto" : "Donut relleno de choco avellana, cubierta con chocolate negro y grageas de chocolate",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2090",
+		"nombre_producto" : "Café Negro",
+		"descripcion_producto" : "Café molido y filtrado al instante.",
+		"precio_producto" : 5000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2091",
+		"nombre_producto" : "Capuccino",
+		"descripcion_producto" : "Bebida a base de espresso de café colombiano y leche, tamaño a elección.",
+		"precio_producto" : 7500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2092",
+		"nombre_producto" : "Chocolate Ghirardelli",
+		"descripcion_producto" : "Chocolate ghirardelli caliente, tamaño a elección.",
+		"precio_producto" : 9000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2093",
+		"nombre_producto" : "Café Espresso Mediano",
+		"descripcion_producto" : "Café Espresso tamaño mediano (7oz)",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2094",
+		"nombre_producto" : "Café Latte",
+		"descripcion_producto" : "Bebida a base de espresso de café con leche, tamaño a elección.",
+		"precio_producto" : 8000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2095",
+		"nombre_producto" : "Té Chai Caliente",
+		"descripcion_producto" : "Té en mezcla de especias y hierbas aromáticas, tamaño a elección.",
+		"precio_producto" : 9000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2096",
+		"nombre_producto" : "Flat Italiano",
+		"descripcion_producto" : "Sándwich con pepperoni, salami y queso.",
+		"precio_producto" : 18000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2097",
+		"nombre_producto" : "Flat Jamón Y Queso",
+		"descripcion_producto" : "Sándwich de jamón y queso.",
+		"precio_producto" : 18000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2098",
+		"nombre_producto" : "Flat Pavo Tocineta",
+		"descripcion_producto" : "Sándwich con jamón de pavo, tocineta y queso.",
+		"precio_producto" : 19000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2099",
+		"nombre_producto" : "Flat Pollo Bbq",
+		"descripcion_producto" : "Sándwich con pollo bbq y queso.",
+		"precio_producto" : 18000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2100",
+		"nombre_producto" : "Flat Sausage",
+		"descripcion_producto" : "Sándwich con carne tipo sausage y queso.",
+		"precio_producto" : 18000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2101",
+		"nombre_producto" : "Sandwich Croissant",
+		"descripcion_producto" : "Sándwich croissant de jamón y queso",
+		"precio_producto" : 18000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2102",
+		"nombre_producto" : "Sandwch Onwich",
+		"descripcion_producto" : "Sandwich en pan croissant con sausage, huevo frito, queso y salsa showy.",
+		"precio_producto" : 18000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2103",
+		"nombre_producto" : "Frutibatido",
+		"descripcion_producto" : "Bebida de 16 onz a base de fruta 100% natural, sabor a maracuya, lulo, mora, guanábana y mango",
+		"precio_producto" : 9000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2104",
+		"nombre_producto" : "Iced Latte",
+		"descripcion_producto" : "Bebida de 16 oz de café, leche y mucho hielo.",
+		"precio_producto" : 9000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2105",
+		"nombre_producto" : "Iced Tea",
+		"descripcion_producto" : "Té de limón de 16 onz.",
+		"precio_producto" : 7000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " medio"
+	},
+	{
+		"codigo_producto" : "2106",
+		"nombre_producto" : "Croissant",
+		"descripcion_producto" : "Croissat sencillo.",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2107",
+		"nombre_producto" : "Antojitos",
+		"descripcion_producto" : "Antojitos con galleta o mini muffin.",
+		"precio_producto" : 9500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2108",
+		"nombre_producto" : "Muffin",
+		"descripcion_producto" : "Muffin de vainilla.",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2109",
+		"nombre_producto" : "Torta",
+		"descripcion_producto" : "Torta de vainilla y chocolate",
+		"precio_producto" : 20000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2110",
+		"nombre_producto" : "Almojabana",
+		"descripcion_producto" : "Panaderia",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2111",
+		"nombre_producto" : "Palito de Queso",
+		"descripcion_producto" : "Palito de queso.",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2112",
+		"nombre_producto" : "Bolsa de Corazones",
+		"descripcion_producto" : "Hojaldre en forma de corazones, 6 unidades.",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2113",
+		"nombre_producto" : "Sándwich Omwich + Coca-cola",
+		"descripcion_producto" : "Sándwich omwich + coca-cola",
+		"precio_producto" : 24000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2114",
+		"nombre_producto" : "Café Molido Original Dunkin Donuts",
+		"descripcion_producto" : "Café molido arábico x 340 gramos.",
+		"precio_producto" : 30000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2115",
+		"nombre_producto" : "Coca-cola Lata Sabor Original 330 ml",
+		"descripcion_producto" : "Gaseosas",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2116",
+		"nombre_producto" : "Coca-cola Lata Sin Azúcar 330 ml",
+		"descripcion_producto" : "Gaseosas",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2117",
+		"nombre_producto" : "Coca-cola Sin Azúcar 600 ml",
+		"descripcion_producto" : "Gaseosas",
+		"precio_producto" : 6500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2118",
+		"nombre_producto" : "Manantial Sin Gas 600 ml",
+		"descripcion_producto" : "Aguas",
+		"precio_producto" : 6000,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " saludable"
+	},
+	{
+		"codigo_producto" : "2119",
+		"nombre_producto" : "Coca Cola 600ml",
+		"descripcion_producto" : "Gaseosas",
+		"precio_producto" : 6500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1003",
+		"categoria" : " no saludable"
+	},
+	{
+		"codigo_producto" : "2120",
+		"nombre_producto" : "Combo Sándwich Italianíssimo 15 Cm",
+		"descripcion_producto" : "Sándwich de rebanadas de peperoni y salami estilo génova, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 28800,
+		"imagen_producto" : "https://images.rappi.com/products/2090788075-1569528577.png?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2121",
+		"nombre_producto" : "Sándwich Atún 15 cm",
+		"descripcion_producto" : "Sándwich de atún seleccionado de la más alta calidad mezclado con mayonesa, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 19400,
+		"imagen_producto" : "https://images.rappi.com/products/2090788090-1569522886.jpg?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2122",
+		"nombre_producto" : "Sándwich Italianíssimo 15 cm",
+		"descripcion_producto" : "Sándwich de rebanadas de peperoni y salami estilo génova, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 19400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2123",
+		"nombre_producto" : "Sándwich Italiano B.M.T.™ 30 Cm",
+		"descripcion_producto" : "Classic Way. Sándwich de salami rebanado estilo génova, pepperoni y jamón con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 32300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2124",
+		"nombre_producto" : "Sándwich Italianíssimo 30 cm",
+		"descripcion_producto" : "Sándwich de rebanadas de peperoni y salami estilo génova con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 32300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2125",
+		"nombre_producto" : "Combo para Dos",
+		"descripcion_producto" : "2 Subs 15cm (1 atún y el otro Italiano BMT) + 2 Bebidas Pet 400ml + 2 Galletas a elección.",
+		"precio_producto" : 47900,
+		"imagen_producto" : "https://images.rappi.com/products/2095811787-1709744436367.jpg?d=300x300&e=webp&q=10",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2126",
+		"nombre_producto" : "Trilogía de Atún! Sub Atún BLT 15cm",
+		"descripcion_producto" : "Sándwich Sub de atún 15 cm con tocineta, queso americano, salsa de ajo, cebolla, tomate, lechuga. ¿Atún y Tocineta? ¡Si! ¡Una combinación audaz que eleva cada bocado a una experiencia gourmet!",
+		"precio_producto" : 21700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2127",
+		"nombre_producto" : "Trilogía de Atún! Sub Atún Smoky & Spicy 15cm",
+		"descripcion_producto" : "Sándwich Sub de atún 15 cm con jalapeños, salsa bbq, salsa cebolla dulce, queso americano, cebolla, lechuga. El atún no tiene por qué saber igual siempre. Combinado con salsa bbq, dándole un toque ahumado, y con jalapeños para darle el toque picante, podrás tener un sabor jamás pensado antes!",
+		"precio_producto" : 19900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2128",
+		"nombre_producto" : "Trilogía de Atún! Sub Atún Mediterráneo 15cm",
+		"descripcion_producto" : "Sándwich Sub de atún 15 cm con pimentón, aceitunas, vinagre, aceite de oliva, pepino, cebolla, tomate, salsa de ajo. Una explosión de sabores que combina la frescura del atún con ingredientes mediterráneos: Aceitunas, vinagre, aceite de oliva, queso y vegetales.",
+		"precio_producto" : 19900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2129",
+		"nombre_producto" : "Trilogía de Atún! Sub Atún BLT Footlong",
+		"descripcion_producto" : "Sándwich Sub de atún 30 cm con tocineta, queso americano, salsa de ajo, cebolla, tomate, lechuga. ¿Atún y Tocineta? ¡Si! ¡Una combinación audaz que eleva cada bocado a una experiencia gourmet!",
+		"precio_producto" : 34800,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2130",
+		"nombre_producto" : "Trilogía de Atun! Sub Atún Smoky & Spicy Foot",
+		"descripcion_producto" : "SándwichSub de atún 30 cm con jalapeños, salsa bbq, salsa cebolla dulce, queso americano, cebolla, lechuga. El atún no tiene por qué saber igual siempre. Combinado con salsa bbq, dándole un toque ahumado, y con jalapeños para darle el toque picante, podrás tener un sabor jamás pensado antes!",
+		"precio_producto" : 32700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2131",
+		"nombre_producto" : "Trilogía de Atún! Sub Atún Mediterráneo Footl",
+		"descripcion_producto" : "Sándwich Sub de atún 30 cm con pimentón, aceitunas, vinagre, aceite de oliva, pepino, cebolla, tomate, salsa de ajo. Una explosión de sabores que combina la frescura del atún con ingredientes mediterráneos: Aceitunas, vinagre, aceite de oliva, queso y vegetales.",
+		"precio_producto" : 32700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2132",
+		"nombre_producto" : "Combo Sándwich Atún 15 Cm",
+		"descripcion_producto" : "Sándwich de atún seleccionado de la más alta calidad mezclado con mayonesa, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 28800,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2133",
+		"nombre_producto" : "Combo Sándwich Italiano B.M.T.™ 15 Cm",
+		"descripcion_producto" : "Sándwich de salami rebanado estilo génova, pepperoni y jamón, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 28800,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2134",
+		"nombre_producto" : "Combo Sándwich Italianíssimo 15 Cm",
+		"descripcion_producto" : "Sándwich de rebanadas de peperoni y salami estilo génova, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 28800,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2135",
+		"nombre_producto" : "Combo Sándwich Carne BBQ 15 Cm",
+		"descripcion_producto" : "Sándwich de res y cerdo a la parrilla con un toque de salsa BBQ, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 29300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2136",
+		"nombre_producto" : "Combo Sándwich Criollo de Cerdo 15 Cm",
+		"descripcion_producto" : "Con el toquecito de aqui! Sub con cerdo desmechado, salchicha, maiz, platanitos maduros, y salsa de ajo.",
+		"precio_producto" : 30500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2137",
+		"nombre_producto" : "Combo Sándwich Jamón 15 Cm",
+		"descripcion_producto" : "Sándwich de rebanadas de jamón, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 26600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2138",
+		"nombre_producto" : "Combo Sándwich Pollo 15 Cm",
+		"descripcion_producto" : "Sándwich de Pechuga de pollo asada con vegetales y salsas, escoge el pan, queso, vegetales y salsas que prefieras+ Bebida Pet 400 ml+ Papas o galleta.",
+		"precio_producto" : 29300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2139",
+		"nombre_producto" : "Combo Sándwich Cerdo BBQ 15 Cm",
+		"descripcion_producto" : "Sándwich de finos trozos de cerdo, mezclados con salsa BBQ, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 29300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2140",
+		"nombre_producto" : "Combo Costilla BBQ 15cm",
+		"descripcion_producto" : "Sub de deliciosa carne de costilla de cerdo cubierta de exquisita salsa BBQ. Disfrútalo con los vegetales y salsas que más te gustan. Llévalo en combo con bebida más acompañamiento",
+		"precio_producto" : 31600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2141",
+		"nombre_producto" : "Combo Pollo Teriyaki 15cm",
+		"descripcion_producto" : "Deliciosos trozos de pollo tierno bañados en salsa agridulce estilo teriyaki. Pídelo con tus vegetales favoritos y agrégale las salsas que más te gustan. Llévalo en combo con bebida más acompañamiento",
+		"precio_producto" : 30500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2142",
+		"nombre_producto" : "Combo Sándwich Pollo Estilo Rostizado 15 Cm",
+		"descripcion_producto" : "Sándwich de pechuga de pollo desmechada estilo rostizado, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 30500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2143",
+		"nombre_producto" : "Combo Sándwich Pavo y Jamón 15 Cm",
+		"descripcion_producto" : "Sándwich de pechuga de pavo con rebanadas de jamón, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 26600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2144",
+		"nombre_producto" : "Combo Sándwich Pechuga de Pavo 15 Cm",
+		"descripcion_producto" : "Sándwich de rebanadas de pechuga de pavo, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 26600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2145",
+		"nombre_producto" : "Combo Sándwich Vegetariano con Guacamole 15 C",
+		"descripcion_producto" : "Sándwich de vegetales y guacamole, escoge el pan, queso, vegetales y salsas que prefieras + Bebida Pet 400 ml + Papas o galleta.",
+		"precio_producto" : 26100,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2146",
+		"nombre_producto" : "Sándwich Atún 15 cm",
+		"descripcion_producto" : "Sándwich de atún seleccionado de la más alta calidad mezclado con mayonesa, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 19400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2147",
+		"nombre_producto" : "Sándwich Italiano B.M.T.™ 15 cm",
+		"descripcion_producto" : "Sándwich de salami rebanado estilo génova, pepperoni y jamón, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 19400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2148",
+		"nombre_producto" : "Sándwich Italianíssimo 15 cm",
+		"descripcion_producto" : "Sándwich de rebanadas de peperoni y salami estilo génova, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 19400,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2149",
+		"nombre_producto" : "Sándwich Criollo de Cerdo 15cm",
+		"descripcion_producto" : "Con el toquecito de aqui! Sub con cerdo desmechado, salchicha, maíz, platanitos maduros, y salsa de ajo.",
+		"precio_producto" : 21100,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2150",
+		"nombre_producto" : "Sub Pollo Teriyaki 15cm",
+		"descripcion_producto" : "Deliciosos trozos de pollo tierno bañados en salsa agridulce estilo teriyaki. Pídelo con tus vegetales favoritos y agrégale las salsas que más te gustan.",
+		"precio_producto" : 21100,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2151",
+		"nombre_producto" : "Sándwich Pollo Estilo Rostizado 15 cm",
+		"descripcion_producto" : "Sándwich de pechuga de pollo desmechada estilo rostizado, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 21100,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2152",
+		"nombre_producto" : "Sub Costilla BBQ 15cm",
+		"descripcion_producto" : "Sub de deliciosa carne de costilla de cerdo cubierta de exquisita salsa BBQ. Disfrútalo con los vegetales y salsas que más te gustan.",
+		"precio_producto" : 22200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2153",
+		"nombre_producto" : "Sándwich Pollo 15 cm",
+		"descripcion_producto" : "Sándwich de pechuga de pollo asada con los vegetales y salsas que te encantaran, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 19900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2154",
+		"nombre_producto" : "Sándwich Cerdo BBQ 15 cm",
+		"descripcion_producto" : "Sándwich de finos trozos de cerdo mezclados con salsa BBQ, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 19900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2155",
+		"nombre_producto" : "Sándwich Carne BBQ 15 cm",
+		"descripcion_producto" : "Sándwich de de res y cerdo a la parrilla con un toque de salsa BBQ, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 19900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2156",
+		"nombre_producto" : "Sándwich Jamón 15 cm",
+		"descripcion_producto" : "Sándwich de rebanadas de jamón, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 17200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2157",
+		"nombre_producto" : "Sándwich Pechuga de Pavo 15 cm",
+		"descripcion_producto" : "Sándwich de de pechuga de pavo, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 17200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2158",
+		"nombre_producto" : "Sándwich Pavo y Jamón 15 cm",
+		"descripcion_producto" : "Sándwich de pechuga de pavo con rebanadas de jamón, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 17200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2159",
+		"nombre_producto" : "Sándwich Vegetariano con Guacamole 15 cm",
+		"descripcion_producto" : "Sándwich de vegetales y guacamole, escoge el pan, queso, vegetales y salsas que prefieras.",
+		"precio_producto" : 16700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2160",
+		"nombre_producto" : "Sándwich Atún 30 cm",
+		"descripcion_producto" : "Sándwich de atún seleccionado de la más alta calidad mezclado con mayonesa y tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 32300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2161",
+		"nombre_producto" : "Sándwich Italiano B.M.T.™ 30 Cm",
+		"descripcion_producto" : "Classic Way. Sándwich de salami rebanado estilo génova, pepperoni y jamón con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 32300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2162",
+		"nombre_producto" : "Sándwich Italianíssimo 30 cm",
+		"descripcion_producto" : "Sándwich de rebanadas de peperoni y salami estilo génova con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 32300,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2163",
+		"nombre_producto" : "Sándwich Carne BBQ 30 cm",
+		"descripcion_producto" : "Sándwich de res y cerdo a la parrilla con un toque de salsa BBQ con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 32900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2164",
+		"nombre_producto" : "Sándwich Cerdo BBQ 30 cm",
+		"descripcion_producto" : "Sándwich de finos trozos de cerdo, mezclados con salsa BBQ con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 32800,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2165",
+		"nombre_producto" : "Sándwich Teriyaki Doble Proteina 30 Cm",
+		"descripcion_producto" : "Extra Way: Si eres de los que siempre buscan algo mas, tu footlong es el Teriyaki con Doble Proteina",
+		"precio_producto" : 44700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2166",
+		"nombre_producto" : "Sub Costilla BBQ 30cm",
+		"descripcion_producto" : "Sub de deliciosa carne de costilla de cerdo cubierta de exquisita salsa BBQ. Disfrútalo con los vegetales y salsas que más te gustan.",
+		"precio_producto" : 35100,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2167",
+		"nombre_producto" : "Sándwich Criollo de Cerdo 30cm",
+		"descripcion_producto" : "Popular Way. Con el toquecito de aqui! Sub con cerdo desmechado, salchicha, maíz, platanitos maduros, y salsa de ajo.",
+		"precio_producto" : 33900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2168",
+		"nombre_producto" : "Sub Pollo 30cm",
+		"descripcion_producto" : "Sub de pechuga de pollo asada con los vegetales y salsas de tu elección",
+		"precio_producto" : 32800,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2169",
+		"nombre_producto" : "Sub Pollo Teriyaki 30cm",
+		"descripcion_producto" : "Deliciosos trozos de pollo tierno bañados en salsa agridulce estilo teriyaki. Pídelo con tus vegetales favoritos y agrégale las salsas que más te gustan.",
+		"precio_producto" : 33900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2170",
+		"nombre_producto" : "Sándwich Pollo Estilo Rostizado 30 cm",
+		"descripcion_producto" : "Sandwich con deliciosa pechuga de pollo rostizada y desmechada, con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 33900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2171",
+		"nombre_producto" : "Sándwich Jamón 30 cm",
+		"descripcion_producto" : "Sándwich de rebanadas de jamón con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 29600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2172",
+		"nombre_producto" : "Sándwich Pavo y Jamón 30 Cm",
+		"descripcion_producto" : "Active Way. Sándwich de pechuga de pavo con rebanadas de jamón con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 29600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2173",
+		"nombre_producto" : "Sándwich Pechuga de Pavo 30 cm",
+		"descripcion_producto" : "Sándwich de rebanadas de pechuga de pavo con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 29600,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2174",
+		"nombre_producto" : "Sándwich Vegetariano con Guacamole 30 Cm",
+		"descripcion_producto" : "Simple Way. Sándwich de vegetales y guacamole con tu elección de quesos, salsas y vegetales frescos.",
+		"precio_producto" : 28500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2175",
+		"nombre_producto" : "Wrap Pollo Ranchero",
+		"descripcion_producto" : "NUEVO! Wrap de pollo rostizado, con salchicha, cebolla crispy, maiz, queso mozzarella, lechuga y salsa rosada especial",
+		"precio_producto" : 18900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Medio"
+	},
+	{
+		"codigo_producto" : "2176",
+		"nombre_producto" : "Wrap Pavo Gourmet",
+		"descripcion_producto" : "NUEVO! Wrap de jamon de pavo, tocineta, guacamole, cebolla crispy, queso mozzarella, lechuga, salsa ranch y salsa chipotle",
+		"precio_producto" : 22200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2177",
+		"nombre_producto" : "Wrap Cerdo BBQ",
+		"descripcion_producto" : "NUEVO! Cerdo desmechado, tocineta, queso mozzarella, cebolla, pimenton verde y salsa bbq",
+		"precio_producto" : 21200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2178",
+		"nombre_producto" : "Galleta Choco Chips",
+		"descripcion_producto" : "¡Tus favoritas! Perfectas a cualquier hora.",
+		"precio_producto" : 3900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2179",
+		"nombre_producto" : "Palitos de Yuca",
+		"descripcion_producto" : "Palitos de yuca, recién horneados!",
+		"precio_producto" : 7900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2180",
+		"nombre_producto" : "Galleta Doble Chocolate",
+		"descripcion_producto" : "Galleta doble chocolate",
+		"precio_producto" : 3900,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2181",
+		"nombre_producto" : "Galletas X 3",
+		"descripcion_producto" : "Combo 3 galletas a elección",
+		"precio_producto" : 10800,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2182",
+		"nombre_producto" : "Papas Casco",
+		"descripcion_producto" : "Papas casco",
+		"precio_producto" : 8200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2183",
+		"nombre_producto" : "Papas Margarita 30gr",
+		"descripcion_producto" : "Papas Margarita fritas en paquete",
+		"precio_producto" : 3700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2184",
+		"nombre_producto" : "Agua con Gas 600 ml",
+		"descripcion_producto" : "Aguas",
+		"precio_producto" : 5500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2185",
+		"nombre_producto" : "Agua Sin Gas 600 ml",
+		"descripcion_producto" : "Aguas",
+		"precio_producto" : 5500,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " Saludable"
+	},
+	{
+		"codigo_producto" : "2186",
+		"nombre_producto" : "H2OH Limonata 600 ml",
+		"descripcion_producto" : "Aguas",
+		"precio_producto" : 6700,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2187",
+		"nombre_producto" : "Mr Tea Durazno 500 ml",
+		"descripcion_producto" : "Tés",
+		"precio_producto" : 6200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2188",
+		"nombre_producto" : "Mr Tea Limón 500 ml",
+		"descripcion_producto" : "Tés",
+		"precio_producto" : 6200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2189",
+		"nombre_producto" : "Pepsi 400 ml",
+		"descripcion_producto" : "Gaseosas",
+		"precio_producto" : 6200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2190",
+		"nombre_producto" : "7up 400 ml",
+		"descripcion_producto" : "Gaseosas",
+		"precio_producto" : 6200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2191",
+		"nombre_producto" : "Postobón Manzana 400 ml",
+		"descripcion_producto" : "Gaseosas",
+		"precio_producto" : 6200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	},
+	{
+		"codigo_producto" : "2192",
+		"nombre_producto" : "Colombiana 400 ml",
+		"descripcion_producto" : "Gaseosas",
+		"precio_producto" : 6200,
+		"imagen_producto" : "data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"codigo_restaurante" : "1002",
+		"categoria" : " No saludable"
+	}
+]

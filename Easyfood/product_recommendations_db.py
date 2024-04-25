@@ -36,7 +36,7 @@ emb = get_embedding(products[1]['description'])
 
 
 for i in range(len(products)):
-  emb = get_embedding(products[i]['description'])
+  emb = get_embedding(products[i]['sys_description'])
   products[i]['embedding'] = emb
 
 

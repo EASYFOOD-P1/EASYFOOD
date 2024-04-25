@@ -113,10 +113,8 @@
             <a href="#">About Us</a>
         </div>
     </header>
-
     <div class="content">
         <h1>Sistema de recomendación</h1>
-
         <form action="{% url 'recommendations' %}" method="get" class="d-flex align-items-center">
             <label for="searchProduct" class="me-2">Buscar Producto:</label>
             <input type="text" id="searchProduct" name="searchProduct" class="form-control me-2">
@@ -125,12 +123,12 @@
 
         {% if best_prod %}
             <div class="card">
-                <img src="{{ best_prod.image.url }}" class="card-img-top" alt="Product Image">
+                <img src="{{ best_prod.image }}" class="card-img-top" alt="Product Image">
                 <div class="card-body">
                     <h2 class="card-title">Mejor Producto:</h2>
                     <h3 class="card-subtitle mb-2 text-muted">{{ best_prod.title }}</h3>
                     <p class="card-text">{{ best_prod.description }}</p>
-                    <!-- Add more fields as needed -->
+                   
                 </div>
             </div>
         {% else %}
