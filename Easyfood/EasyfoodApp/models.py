@@ -13,6 +13,7 @@ class Product(models.Model):
     emb = models.BinaryField(default=get_default_array())
     image = models.ImageField(upload_to='../static/EasyFood')
     price = models.IntegerField(blank=True, null=True)
+    sys_description = models.CharField(max_length=1000, default="Descripción en clave")
 
     def __str__(self):
         return self.title

@@ -19,7 +19,6 @@ def get_embedding(text, model="text-embedding-3-small"):
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
-
 def home(request):
     products = Product.objects.all()
     
@@ -68,6 +67,31 @@ def product_detail(request, product_name):
     print(product)
 
     return render(request, 'product-detail.html', {'product': product})
+
+def recommendations(request):
+
+    #bestProd = Product.objects.get(emb="Sample title")
+    prompt = request.GET.get('searchProduct')
+    best_prod = None
+    sim_max = -1
+
+    if prompt:
+        embedding_prompt = get_embedding(prompt)
+        #embedding_prompt_adjusted = [x for elem in embedding_prompt for x in (elem, elem)]
+
+        products = Product.objects.all()
+
+        for product in products:
+            binary_emb = product.emb
+            rec_emb = list(np.frombuffer(binary_emb, dtype=np.float64))
+            
+            similitud = cosine_similarity(embedding_prompt, rec_emb)
+            if similitud > sim_max:
+                sim_max = similitud
+                best_prod = product
+
+
+    return render(request, 'recommendations.html', {'best_prod':best_prod})
 
 """
 def recommendations(request):

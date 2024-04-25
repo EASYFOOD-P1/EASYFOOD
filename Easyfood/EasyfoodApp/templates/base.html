@@ -1,8 +1,8 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
-
-    {% load static %}
 
     <link rel="icon" href="{% static 'EasyFood/favicon.png' %}">
     <meta charset="UTF-8">
@@ -97,6 +97,9 @@
                 <a href="{% url 'home' %}"><img style="width: 25%; height: 25%;" src="{% static 'EasyFood/easyfood.png' %}" alt="Logo EasyFood"></a>       
         </div>
         <div class="navmenu">
+            <span>
+                <a class="a1" href="{% url 'recommendations' %}">S. Recomendación</a>
+            </span>
             <span>
                 <a class="a1" href="{% url 'products' %}">Productos</a>
             </span>

@@ -9,7 +9,7 @@ class Command(BaseCommand):
     def handle(self,*args, **kwargs):
         Product.objects.all().delete()
 
-        json_file_path = 'EasyfoodApp/management/commands/embeddings_db.json'
+        json_file_path = 'EasyfoodApp/management/commands/embeddings_db1.json'
 
         with open(json_file_path, 'r', encoding='utf-8') as file:
             products = json.load(file)
@@ -24,4 +24,5 @@ class Command(BaseCommand):
                                         description = product['description'],
                                         emb = emb_binary,
                                         image = product['image'],
-                                        price = product['price'],)
+                                        price = product['price'],
+                                        sys_description = product['sys_description'])

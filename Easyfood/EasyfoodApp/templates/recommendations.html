@@ -1,0 +1,114 @@
+{% extends 'base.html' %}
+{% block title %}EasyFood - Recomendación{% endblock %}
+<body>    
+{% block content %}
+
+    <style>
+
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2, h3 {
+            margin-top: 0;
+        }
+
+        label {
+            font-weight: 600;
+        }
+
+        input[type="text"] {
+            width: 70%;
+            padding: 10px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        button[type="submit"] {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        .card {
+            margin-top: 20px;
+        }
+
+        .card img {
+            max-width: 600px; /* Cambia este valor según lo que necesites */
+            height: auto;
+            border-radius: 10px 10px 0 0;
+        }
+
+    </style>
+
+    <!-- <div class="content">
+        <h1>Sistema de recomendación</h1>
+        <form action="{% url 'recommendations' %}" method="get" class="d-flex align-items-center">
+            <label for="searchProduct" class="me-2">Buscar Producto:</label>
+            <input type="text" id="searchProduct" name="searchProduct" class="form-control me-2">
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </form>
+
+        {% if best_prod %}
+            <div class="card">
+                <img src="{{ best_prod.image }}" class="card-img-top" alt="Product Image">
+                <div class="card-body">
+                    <h2 class="card-title">Mejor Producto:</h2>
+                    <h3 class="card-subtitle mb-2 text-muted">{{ best_prod.title }}</h3>
+                    <p class="card-text">{{ best_prod.description }}</p>
+                   
+                </div>
+            </div>
+        {% else %}
+            <p>No se encontró ningún producto.</p>
+        {% endif %}
+    </div> -->
+    <div class="container2 poppins-regular">
+        <h1>Sistema de recomendación</h1>
+        <div style=" display: flex; width: 100%; flex-direction: row; justify-content: space-evenly; align-items: center;">
+            <div style="display: flex; flex-direction: column; justify-content: center;">
+                <form action="{% url 'recommendations' %}" method="get" class="d-flex align-items-center">
+                    <label for="searchProduct" class="me-2">Buscar Producto:</label>
+                    <input type="text" id="searchProduct" name="searchProduct" class="form-control me-2">
+                    <button type="submit" class="btn btn-primary">Buscar</button>
+                </form>
+        
+                {% if best_prod %}
+                <div class="best_prod{% if forloop.first %} showing{% endif %}" style="justify-content: center; display: flex;">
+                    <div class="card text-center mb-2" style="width: 25rem; justify-items: center;">
+                        <h5 class="card-title" style="margin-top: 0.5rem; ">{{ best_prod.title }}</h5>
+                        <img src="{{ best_prod.image }}" class="card-img-top" alt="{{ best_prod.nombre }}">
+                        <div class="card-body">
+                            <p class="card-text">{{ best_prod.description }}</p>
+                            <p class="card-text" style="font-weight: bold;">Precio: ${{ best_prod.price }}</p>
+                            <a href="{% url 'product_detail' product_name=best_prod.title %}" class="btn btn-outline-primary">Sobre el producto</a>
+                        </div>
+                    </div>
+                </div>
+                {% else %}
+                    <p>No product found.</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+{% endblock content %}
+</body>
+
