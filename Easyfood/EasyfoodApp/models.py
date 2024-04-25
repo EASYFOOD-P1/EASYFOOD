@@ -2,7 +2,6 @@ from django.db import models
 from django.contrib.auth.models import User
 import numpy as np
 
-
 def get_default_array():
   default_arr = np.random.rand(1536)  # Adjust this to your desired default array
   return default_arr.tobytes()

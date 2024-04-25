@@ -1,11 +1,11 @@
-from django.shortcuts import render
-from .models import Product
+from django.shortcuts import render, get_object_or_404
+from EasyfoodApp.models import Product
 #from product_recommendations_db import get_embedding, cosine_similarity
 import numpy as np
 import json
 from openai import OpenAI 
 from dotenv import load_dotenv, find_dotenv
-import os
+import os, random
 
 _ = load_dotenv('../openAI.env')
 client = OpenAI(
@@ -22,22 +22,7 @@ def cosine_similarity(a, b):
 
 def home(request):
     products = Product.objects.all()
-    return render(request, 'home.html', {'products': products})
-
-def products(request):
-    query = request.GET.get('searchProduct')
-    results = None
-
-    if query:
-        results = Product.objects.filter(title__icontains=query)
-    products = Product.objects.all()
-    return render(request, 'products.html', {'products': products, 'results': results})
-
-def login(request):
-    return render(request, 'login.html')
-
-def recommendations(request):
-
+    
     #bestProd = Product.objects.get(emb="Sample title")
     prompt = request.GET.get('searchProduct')
     best_prod = None
@@ -57,9 +42,32 @@ def recommendations(request):
             if similitud > sim_max:
                 sim_max = similitud
                 best_prod = product
+    
+    if not best_prod:
 
+        best_prod = products[random.randint(0, len(products)-1)]
 
-    return render(request, 'recommendations.html', {'best_prod':best_prod})
+    return render(request, 'home.html', {'products': products, 'best_prod': best_prod})
+
+def products(request):
+    query = request.GET.get('searchProduct')
+    results = None
+
+    if query:
+        results = Product.objects.filter(title__icontains=query)
+    products = Product.objects.all()
+    return render(request, 'products.html', {'products': products, 'results': results})
+
+def login(request):
+    return render(request, 'login.html')
+
+def product_detail(request, product_name):
+
+    product = get_object_or_404(Product, title=product_name)
+
+    print(product)
+
+    return render(request, 'product-detail.html', {'product': product})
 
 """
 def recommendations(request):

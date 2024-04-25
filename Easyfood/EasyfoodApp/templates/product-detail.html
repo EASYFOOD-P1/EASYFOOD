@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+{% block title %}{{ product.title }}{% endblock title %}
+<body>    
+{% block content %}
+
+<style>
+
+    .formbut {
+        display: flex; flex-direction: column; height: 50vh; align-items: center; justify-content: space-evenly;
+    }
+    .btn-outline-primary{
+        color: #00A8F3;
+        border-color: #00A8F3;
+    }
+    .btn-outline-primary:hover{
+        background-color: #00A8F3;
+        color:  white;
+    }
+    .btn-info{
+        background-color: #00A8F3;
+        color: white;   
+        width: 12rem;
+        height: 4rem;
+        font-size: 22px;
+        font-weight: 500;
+    }
+    .btn-info:hover{
+        color: white;
+    }
+    .star {
+        font-size: 30px;
+        color: #ddd;
+        transition: color 0.3s;
+        cursor: pointer;
+    }
+    .star:hover, .star.checked {
+        color: gold;
+    }
+
+</style>
+
+<div class="container2 poppins-regular">
+
+    <h2>Sobre este producto</h2>
+
+    <div style=" display: flex; width: 100%; flex-direction: row; justify-content: center">
+
+        <div>
+            <div class="card text-center mb-2" style="justify-items: center; flex-direction: row; justify-content: space-evenly;">
+                <div style="width: 40%;">
+                    <h5 class="card-title" style="margin-top: 0.5rem; ">{{ product.title }}</h5>
+                    <img src="{{ product.image.url }}" class="card-img-top" alt="{{ product.nombre }}">
+                    <div class="card-body">
+                        <p class="card-text">{{ product.description }}</p>
+                        <p class="card-text" style="font-weight: bold;">Precio: ${{ product.price }}</p>
+                    </div>
+                </div>
+                <div style="display: flex; flex-direction: column; justify-content: space-evenly; width: 60%;">
+                    <div style="display: flex; flex-direction: column;  height: 50%; align-items: center; justify-content: center;">
+                        <h3 class="card-title">Calificar</h3>
+                        <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+                            <i class="bi bi-star-fill star"></i>
+                            <i class="bi bi-star-fill star"></i>
+                            <i class="bi bi-star-fill star"></i>
+                            <i class="bi bi-star-fill star"></i>
+                            <i class="bi bi-star-fill star"></i>
+                        </div>
+                    </div>
+                    <div style="height: 50%;">
+                        <h5 class="card-title">Deja un comentario sobre este producto</h5>
+                        <form action="">
+                            <input type="text" name="comment" id="comment">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JS de sistema de rating -->
+    <script>
+        const stars = document.querySelectorAll('.star');
+    
+        stars.forEach(function(star, index) {
+            star.addEventListener('click', function() {
+                for (let i=0; i<=index; i++){
+                    stars[i].classList.add('checked');
+                }
+                for (let i=index+1; i<=stars.length; i++){
+                    stars[i].classList.remove('checked');
+                }
+            })
+        })
+    </script>
+
+{% endblock content %}
+</body>

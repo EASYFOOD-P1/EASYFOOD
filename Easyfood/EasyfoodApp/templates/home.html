@@ -1,145 +1,75 @@
-{% load static %}
+{% extends 'base.html' %}
+{% block title %}EasyFood - Principal{% endblock %}
+<body>    
+{% block content %}
 
+<style>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
+    .formbut {
+        display: flex; flex-direction: column; height: 50vh; align-items: center; justify-content: space-evenly;
+    }
+    .btn-outline-primary{
+        color: #00A8F3;
+        border-color: #00A8F3;
+    }
+    .btn-outline-primary:hover{
+        background-color: #00A8F3;
+        color:  white;
+    }
+    .btn-info{
+        background-color: #00A8F3;
+        color: white;   
+        width: 12rem;
+        height: 4rem;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .btn-info:hover{
+        color: white;
+    }
 
-    
+</style>
 
-    <link rel="icon" href="{% static 'EasyFood/favicon.png' %}">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EasyFood - Principal</title>
+<div class="container2 poppins-regular">
 
-    <style>
-        .poppins-regular {
-            font-family: "Poppins", sans-serif;
-            font-weight: 500;
-            font-style: normal;
-        }
-        header {
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
+    <h1>¿Qué vamos a comer hoy?</h1>
 
-        body {
-            display: flex;
-            flex-direction: column;
-        }
-        .navmenu {
-            width: 50%; 
-            align-items: center; 
-            justify-content: right; 
-            display: flex;
-        }
-        .logo {
-            width: 50%; 
-            align-items: center; 
-            display: flex;
-        }
-        span {
-            font-size: 25px;
-            padding: 10px
-        }
-        .container {
-            display: flex;
-            background-color: #f0f0f0; 
-            padding: 20px; 
-            border-radius: 10px; 
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            justify-content: space-evenly;
-            align-items: center;
-            margin: 50px;
-        }
-        .product {
-            display: none;
-        }
-        .showing {
-            display: block;
-        }
-      </style>
+    <h4>¡Te recomendamos este producto!</h4>
 
-    <!-- Bootstrap -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <div style=" display: flex; width: 100%; flex-direction: row; justify-content: space-evenly; align-items: center;">
 
-    <!-- Ajax -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-    <!-- Poppins -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-    
-
-</head>
-<header>
-    <div class ="poppins-regular" style="display: flex; width: 100%;">
-        <div class="logo">
-                <a href="{% url 'home' %}"><img style="width: 20%; height: 20%;" src="{% static 'EasyFood/easyfood-nb.png' %}" alt="Logo EasyFood"></a>       
-        </div>
-        <div class="navmenu">
-            <span>
-                <a href="{% url 'recommendations' %}">Sistema de Recomendacion</a>
-            </span>
-            <span>
-                <a href="{% url 'products' %}">Productos</a>
-            </span>
-            <span>
-                About Us
-            </span>
-        </div>
-    </div>
-</header>
-
-<body>
-    <div class="container poppins-regular">
-
-        <div style="display: inline-flex; justify-content: center; align-items: center; flex-direction: column;">
-            {% for product in products %}
-            <div class="product{% if forloop.first %} showing{% endif %}">
-                <div class="card text-center mb-2" style="width: 18rem;">
-                    <img src="{{ product.image.url }}" class="card-img-top" alt="{{ product.nombre }}">
-                    <div class="card-body">
-                        <h5 class="card-title">{{ product.title }}</h5>
-                        <p class="card-text">{{ product.description }}</p>
-                        <a href="#" class="btn btn-primary">Precio: ${{ product.price }}</a>
-                    </div>
+        <form action="{% url 'home' %}" method="get" class="formbut">
+            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Hamburguesa">Más pesado</button>
+            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Papas fritas y Chicken Fingers">Algo liviano</button>
+        </form>
+        {% if best_prod %}
+        <div class="best_prod{% if forloop.first %} showing{% endif %}" style="float:right;">
+            <div class="card text-center mb-2" style="width: 22rem; justify-items: center;">
+                <h5 class="card-title" style="margin-top: 0.5rem; ">{{ best_prod.title }}</h5>
+                <img src="{{ best_prod.image.url }}" class="card-img-top" alt="{{ best_prod.nombre }}">
+                <div class="card-body">
+                    <p class="card-text">{{ best_prod.description }}</p>
+                    <p class="card-text" style="font-weight: bold;">Precio: ${{ best_prod.price }}</p>
+                    <a href="{% url 'product_detail' product_name=best_prod.title %}" class="btn btn-outline-primary">Sobre el producto</a>
                 </div>
             </div>
-            {% endfor %}
         </div>
-        <div style="display: flex; flex-direction: column; justify-content: space-around;">
-
-            <button id="next" type="button" class="btn btn-primary btn-lg">Otra opción</button>
-            <button style="margin-top: 100px;" type="button" class="btn btn-secondary btn-lg">Calificar producto</button>
-
-        </div>
+        {% else %}
+            <p>No product found.</p>
+        {% endif %}
+        <form action="{% url 'home' %}" method="get" class="formbut">
+            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Burrito">Estilo mexicano</button>
+            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Saludable">Más saludable</button>
+        </form>
     </div>
-    
+
+{% endblock content %}
 </body>
 
-<script>
-    $(document).ready(function() {
-        var index = 0;
-        var totalProducts = $('.product').length;
-
-        $('#previous').click(function() {
-            index = (index - 1 + totalProducts) % totalProducts;
-            showProduct(index);
-        });
-
-        $('#next').click(function() {
-            index = (index + 1) % totalProducts;
-            showProduct(index);
-        });
-
-        function showProduct(index) {
-            $('.product').removeClass('showing');
-            $('.product').eq(index).addClass('showing');
-        }
-    });
-</script>
-
-
-</html>
+    <!-- <div style="margin-bottom: 10px;">
+        <form action="{% url 'home' %}" method="get">
+            <label for="searchProduct">Buscar un producto:</label>
+            <input type="text" id="searchProduct" name="searchProduct">
+            <button type="submit">Buscar</button>
+        </form>
+    </div> -->
