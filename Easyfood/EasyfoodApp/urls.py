@@ -5,7 +5,8 @@ from django.conf.urls.static import static
 from EasyfoodApp.views import home, products, login, product_detail, recommendations
 
 urlpatterns = [
-    path('principal/', home, name='home' ),
+    #path('principal/', home, name='home' ),
+    path('', home, name='home' ),
     path('productos/', products, name='products' ),
     path('login/', login, name='login'),
     path('detalles/<str:product_name>/', product_detail, name='product_detail'),
