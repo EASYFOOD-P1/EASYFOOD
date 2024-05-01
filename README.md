@@ -45,12 +45,17 @@ To install EASYFOOD, follow these steps:
 
 Here are the dependencies used in EASYFOOD:
 
-- asgiref==3.7.2
-- Django==5.0.3
-- pip==22.0.2
-- setuptools==59.6.0
-- sqlparse==0.4.4
-- typing_extensions==4.10.0
+- openai==1.17.0
+- python-dotenv==1.0.1
+- numpy==1.26.4
+- requests==2.31.0
+- matplotlib==3.8.4
+- plotly==5.20.0
+- scipy==1.13.0
+- scikit-learn==1.4.2
+- tenacity==8.2.3
+- pandas==2.2.2
+- Django==5.0.4
 
 Please note that some of these dependencies might be indirect dependencies of others.
 
