@@ -1,11 +1,11 @@
-from django.shortcuts import render
-from .models import Product
+from django.shortcuts import render, get_object_or_404
+from EasyfoodApp.models import Product
 #from product_recommendations_db import get_embedding, cosine_similarity
 import numpy as np
 import json
 from openai import OpenAI 
 from dotenv import load_dotenv, find_dotenv
-import os
+import os, random
 
 _ = load_dotenv('../openAI.env')
 client = OpenAI(
@@ -19,10 +19,34 @@ def get_embedding(text, model="text-embedding-3-small"):
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
-
 def home(request):
     products = Product.objects.all()
-    return render(request, 'home.html', {'products': products})
+    
+    #bestProd = Product.objects.get(emb="Sample title")
+    prompt = request.GET.get('searchProduct')
+    best_prod = None
+    sim_max = -1
+
+    if prompt:
+        embedding_prompt = get_embedding(prompt)
+        #embedding_prompt_adjusted = [x for elem in embedding_prompt for x in (elem, elem)]
+
+        products = Product.objects.all()
+
+        for product in products:
+            binary_emb = product.emb
+            rec_emb = list(np.frombuffer(binary_emb, dtype=np.float64))
+            
+            similitud = cosine_similarity(embedding_prompt, rec_emb)
+            if similitud > sim_max:
+                sim_max = similitud
+                best_prod = product
+    
+    if not best_prod:
+
+        best_prod = products[random.randint(0, len(products)-1)]
+
+    return render(request, 'home.html', {'products': products, 'best_prod': best_prod})
 
 def products(request):
     query = request.GET.get('searchProduct')
@@ -35,6 +59,14 @@ def products(request):
 
 def login(request):
     return render(request, 'login.html')
+
+def product_detail(request, product_name):
+
+    product = get_object_or_404(Product, title=product_name)
+
+    print(product)
+
+    return render(request, 'product-detail.html', {'product': product})
 
 def recommendations(request):
 

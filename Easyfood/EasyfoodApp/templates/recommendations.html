@@ -1,53 +1,10 @@
-{% load static %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recommendations</title>
-    <!-- Bootstrap -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-    <!-- Poppins Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+{% extends 'base.html' %}
+{% block title %}EasyFood - Recomendación{% endblock %}
+<body>    
+{% block content %}
 
     <style>
-        /* General Styles */
-        body {
-            font-family: 'Poppins', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f8f9fa;
-            color: #333;
-        }
 
-        /* Header Styles */
-        header {
-            background-color: #fff;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .navmenu a {
-            text-decoration: none;
-            color: #333;
-            margin-left: 20px;
-            transition: color 0.3s ease;
-        }
-
-        .navmenu a:hover {
-            color: #007bff;
-        }
-
-        .logo img {
-            width: 100px;
-            height: auto;
-        }
-
-        /* Content Styles */
         .content {
             max-width: 800px;
             margin: 20px auto;
@@ -98,22 +55,10 @@
             height: auto;
             border-radius: 10px 10px 0 0;
         }
+
     </style>
-</head>
-<body>
-    <header>
-        <div class="logo">
-            <a href="{% url 'home' %}">
-                <img src="{% static 'EasyFood/easyfood-nb.png' %}" alt="Logo EasyFood">
-            </a>
-        </div>
-        <div class="navmenu">
-            <a href="{% url 'recommendations' %}">Sistema de Recomendación</a>
-            <a href="{% url 'products' %}">Productos</a>
-            <a href="#">About Us</a>
-        </div>
-    </header>
-    <div class="content">
+
+    <!-- <div class="content">
         <h1>Sistema de recomendación</h1>
         <form action="{% url 'recommendations' %}" method="get" class="d-flex align-items-center">
             <label for="searchProduct" class="me-2">Buscar Producto:</label>
@@ -126,17 +71,44 @@
                 <img src="{{ best_prod.image }}" class="card-img-top" alt="Product Image">
                 <div class="card-body">
                     <h2 class="card-title">Mejor Producto:</h2>
-                    <h3 class="card-subtitle mb-2 text-muted">{{ best_prod.title }} {{best_prod.price}} COP</h3>
+                    <h3 class="card-subtitle mb-2 text-muted">{{ best_prod.title }}</h3>
                     <p class="card-text">{{ best_prod.description }}</p>
                    
                 </div>
             </div>
-        
-            
         {% else %}
-            
+            <p>No se encontró ningún producto.</p>
         {% endif %}
+    </div> -->
+    <div class="container2 poppins-regular">
+        <h1>Sistema de recomendación</h1>
+        <div style=" display: flex; width: 100%; flex-direction: row; justify-content: space-evenly; align-items: center;">
+            <div style="display: flex; flex-direction: column; justify-content: center;">
+                <form action="{% url 'recommendations' %}" method="get" class="d-flex align-items-center">
+                    <label for="searchProduct" class="me-2">Buscar Producto:</label>
+                    <input type="text" id="searchProduct" name="searchProduct" class="form-control me-2">
+                    <button type="submit" class="btn btn-primary">Buscar</button>
+                </form>
+        
+                {% if best_prod %}
+                <div class="best_prod{% if forloop.first %} showing{% endif %}" style="justify-content: center; display: flex;">
+                    <div class="card text-center mb-2" style="width: 25rem; justify-items: center;">
+                        <h5 class="card-title" style="margin-top: 0.5rem; ">{{ best_prod.title }}</h5>
+                        <img src="{{ best_prod.image }}" class="card-img-top" alt="{{ best_prod.nombre }}">
+                        <div class="card-body">
+                            <p class="card-text">{{ best_prod.description }}</p>
+                            <p class="card-text" style="font-weight: bold;">Precio: ${{ best_prod.price }}</p>
+                            <a href="{% url 'product_detail' product_name=best_prod.title %}" class="btn btn-outline-primary">Sobre el producto</a>
+                        </div>
+                    </div>
+                </div>
+                {% else %}
+                    <p>No product found.</p>
+                {% endif %}
+            </div>
+        </div>
     </div>
+
+{% endblock content %}
 </body>
-</html>
 

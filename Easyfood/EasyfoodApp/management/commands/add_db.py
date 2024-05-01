@@ -2,6 +2,7 @@ from django.core.management.base import BaseCommand
 from EasyfoodApp.models import Product
 import os
 import json
+import numpy as np
 
 
 class Command(BaseCommand):
@@ -16,9 +17,12 @@ class Command(BaseCommand):
         for i in range(len(products)):
             product = products[i]
             exist = Product.objects.filter(title = product['title']).first()
+            emb = product['embedding']
+            emb_binary = np.array(emb).tobytes()
             if not exist:
                 Product.objects.create(title = product['title'],
                                         description = product['description'],
+                                        emb = emb_binary,
                                         image = product['image'],
                                         price = product['price'],
                                         sys_description = product['sys_description'])
