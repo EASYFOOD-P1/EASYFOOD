@@ -7,6 +7,8 @@ from openai import OpenAI
 from dotenv import load_dotenv, find_dotenv
 import os, random
 
+
+################################################## AUXILIAR FUNCTIONS
 _ = load_dotenv('../openAI.env')
 client = OpenAI(
     # This is the default and can be omitted
@@ -19,16 +21,29 @@ def get_embedding(text, model="text-embedding-3-small"):
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
+def get_completion(prompt, model="gpt-3.5-turbo"):
+    messages = [{"role": "user", "content": prompt}]
+    response = client.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=0,
+    )
+    return response.choices[0].message.content
+################################################
+
+
+
+
 def home(request):
     products = Product.objects.all()
     
     #bestProd = Product.objects.get(emb="Sample title")
-    prompt = request.GET.get('searchProduct')
+    searchProduct = request.GET.get('searchProduct')
     best_prod = None
     sim_max = -1
 
-    if prompt:
-        embedding_prompt = get_embedding(prompt)
+    if searchProduct :
+        embedding_prompt = get_embedding(searchProduct)
         #embedding_prompt_adjusted = [x for elem in embedding_prompt for x in (elem, elem)]
 
         products = Product.objects.all()

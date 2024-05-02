@@ -25,6 +25,7 @@
         }
         .navmenu {
             width: 50%; 
+            height: 70PX;
             align-items: center; 
             justify-content: right; 
             display: flex;
@@ -35,7 +36,7 @@
             display: flex;
         }
         span {
-            font-size: 25px;
+            font-size: 15px;
             padding: 10px
         }
         .container1 {
@@ -72,6 +73,12 @@
         .a1:hover{
             color: #00A8F3;
         }
+        footer {
+            background-color: #f0f0f0;
+            padding: 20px 0;
+            text-align: center;
+            margin-top: auto; 
+        }
     </style>
 
     <!-- Bootstrap -->
@@ -98,7 +105,7 @@
         </div>
         <div class="navmenu">
             <span>
-                <a class="a1" href="{% url 'recommendations' %}">S. Recomendación</a>
+                <a class="a1" href="{% url 'recommendations' %}">Recomendación Avanzada</a>
             </span>
             <span>
                 <a class="a1" href="{% url 'products' %}">Productos</a>
@@ -112,8 +119,13 @@
 {% block content %}
 {% endblock content %}
 
-
+<footer>
+    <div class ="poppins-regular">
+        <p>© 2024 EasyFood. Todos los derechos reservados.</p>
+    </div>
+</footer>
 
 </body>
+
 
 </html>

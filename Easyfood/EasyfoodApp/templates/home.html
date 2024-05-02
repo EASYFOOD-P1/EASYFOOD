@@ -39,8 +39,8 @@
     <div style=" display: flex; width: 100%; flex-direction: row; justify-content: space-evenly; align-items: center;">
 
         <form action="{% url 'home' %}" method="get" class="formbut">
-            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Hamburguesa">Más pesado</button>
-            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Papas fritas y Chicken Fingers">Algo liviano</button>
+            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Mas pesado">Más pesado</button>
+            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Mas saludable">Más saludable</button>
         </form>
         {% if best_prod %}
         <div class="best_prod{% if forloop.first %} showing{% endif %}" style="float:right;">
@@ -52,14 +52,15 @@
                     <p class="card-text" style="font-weight: bold;">Precio: ${{ best_prod.price }}</p>
                     <a href="{% url 'product_detail' product_name=best_prod.title %}" class="btn btn-outline-primary">Sobre el producto</a>
                 </div>
+                
             </div>
         </div>
         {% else %}
             <p>No product found.</p>
         {% endif %}
         <form action="{% url 'home' %}" method="get" class="formbut">
-            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Burrito">Estilo mexicano</button>
-            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Saludable">Más saludable</button>
+            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Menor precio">Menor precio</button>
+            <button type="submit" name="searchProduct" class="btn btn-info btn-lg" value="Mayor precio">Mayor precio</button>
         </form>
     </div>
 </div>
